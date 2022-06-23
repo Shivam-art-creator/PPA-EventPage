@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* UPCOMING EVENTS CONTAINER */
+.upcoming-events-container {
+    /* border: 2px solid red; */
+    position: absolute;
+    height: 1090px;
+    width: 1200px;
+    top: 820px;
+    left: 120px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* EVENT BOXES */
+.events {
+    border: 2px solid red;
+    height: 268px;
+    width: 1196px;
+    left: 122px;
+    top: 1121px;
+    border-radius: 12px;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+/* EVENT DESCRIPTION CONTAINER */
+.events div {
+    border: 2px solid red;
+    margin: 5px 0;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+/* EVENT TITLES */
+.event-title {
+    /* border: 2px solid red; */
+    color: #272834;
+    width: 546px;
+
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 39px;
+}
