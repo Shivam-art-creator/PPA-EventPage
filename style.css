@@ -54,3 +54,174 @@
     font-size: 26px;
     line-height: 39px;
 }
+/*Amit's work*/
+.calender-pic{
+    left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+}
+.date {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 149.8%;
+/* identical to box height, or 24px */
+
+text-align: justify;
+color: #272834;
+
+}
+.time {
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 149.8%;
+/* identical to box height, or 24px */
+
+text-align: justify;
+color: #272834;
+
+}
+
+.button {
+    width: 185px;
+height: 49px;
+left: 691px;
+top: 1015px;
+
+background: linear-gradient(93.44deg, #444BAB -6.8%, #3CA5C2 186.94%);
+border-radius: 6px;
+}
+.register {
+    
+width: 133px;
+height: 22px;
+left: 715px;
+top: 1024px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 149.8%;
+/* or 30px */
+
+
+color: #FFFFFF;
+
+}
+.group {
+    left: 8.33%;
+right: 8.33%;
+top: 16.67%;
+bottom: 16.67%;
+
+
+}
+.participant {
+    width: 230px;
+height: 24px;
+left: 921px;
+top: 1028px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 149.8%;
+/* identical to box height, or 24px */
+
+text-align: justify;
+
+color: #272834;
+
+}
+.ring{
+    position: static;
+    width: 38px;
+height: 38px;
+left: 1256px;
+top: 840px;
+border-radius: 50%;
+
+background: #FFFFFF;
+box-shadow: 0px 0.25px 4px rgba(0, 0, 0, 0.25);
+
+}
+.head{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    
+}
+.upcoming {
+    
+    
+width: 1068px;
+height: 54px;
+left: 111px;
+top: 732px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 150%;
+/* identical to box height, or 54px */
+
+display: flex;
+align-items: center;
+
+color: #272834;
+
+}
+.add-button {
+    width: 62px;
+height: 62px;
+left: 1271px;
+top: 704px;
+
+background: linear-gradient(143.77deg, #3E8EBC 5.24%, #444BAB 84.52%);
+border-radius: 50%;
+}
+.addpic{
+    left: 89.79%;
+right: 8.91%;
+top: 19.72%;
+bottom: 79.77%;
+
+border: 4px solid #FFFFFF;
+}
+.upcomingparent {
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.share{
+    
+width: 38px;
+height: 38px;
+left: 1256px;
+top: 840px;
+
+background: #FFFFFF;
+box-shadow: 0px 0.25px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50%;
+    
+    
+}
+#sharepic{
+    height: 18px;
+    width: 18px;
+    left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+}
