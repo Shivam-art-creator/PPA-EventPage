@@ -5,6 +5,203 @@
     box-sizing: border-box;
 }
 
+
+nav{
+    
+    position: absolute;
+    width: 1440px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.03);
+    }
+    
+    label.logo{
+        
+    position: absolute;
+    width: 213px;
+    height: 24px;
+    left: 89px;
+    top: 31px;
+    
+    font-family: 'Gilroy-Bold';
+    font-size: 18.7544px;
+    line-height: 22px;
+    font-weight: bold;
+    color: #444BAB;
+    }
+    
+    nav ul{
+        float: right;
+        margin-right: 20px;
+    }
+    
+    nav ul li{
+        display: inline-block;
+        line-height: 19px;
+        margin-top: 34px;
+    
+    }
+    
+    a.renaissance{
+        position: absolute;
+    width: 93px;
+    height: 19px;
+    left: 457px;
+    top: 34px;
+    
+    font-family: 'Gilroy-Medium';
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    
+    color: #4F516B;
+    }
+    
+    a.campusprograms{
+        
+    position: absolute;
+    width: 136px;
+    height: 19px;
+    left: 580px;
+    top: 34px;
+    
+    font-family: 'Gilroy-Medium';
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    
+    color: #4F516B;
+    
+    }
+    
+    a.hirewithus{
+        
+    position: absolute;
+    width: 89px;
+    height: 19px;
+    left: 746px;
+    top: 34px;
+    
+    font-family: 'Gilroy-Medium';
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    
+    color: #4F516B;
+    }
+    
+    a.stories{
+        position: absolute;
+    width: 50px;
+    height: 19px;
+    left: 865px;
+    top: 34px;
+    
+    font-family: 'Gilroy-Medium';
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    
+    color: #4F516B;
+    
+    }
+    
+    a.events{
+        
+    position: absolute;
+    width: 48px;
+    height: 19px;
+    left: 945px;
+    top: 34px;
+    
+    font-family: 'Gilroy-Medium';
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    
+    color: #4F516B;
+    
+    }
+    
+    .login{
+        
+    position: absolute;
+    width: 45px;
+    height: 18px;
+    left: 1135px;
+    top: 34px;
+    
+    font-family: 'Gilroy-Bold';
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #444BAB;
+    
+    /* For log-in box css */
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 121px;
+    height: 36px;
+    left: 1097px;
+    top: 25px;
+    
+    border: 1px solid #444BAB;
+    border-radius: 6px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    }
+    
+    .startfreetrial{
+        
+    position: absolute;
+    width: 109px;
+    height: 18px;
+    left: 1264px;
+    top: 34px;
+    
+    font-family: 'Gilroy-Bold';
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #FFFFFF;
+    
+    /* Css used in box of start free trial */
+    
+    position: absolute;
+    width: 164px;
+    height: 36px;
+    left: 1236px;
+    top: 25px;
+    
+    background: #444BAB;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    
+    .icon{
+        position: absolute;
+    width: 35.85px;
+    height: 42.75px;
+    left: 40px;
+    top: 19px;
+    }
+    
+    /* ---------------------------------- */
+
 /* UPCOMING EVENTS CONTAINER */
 .upcoming-events-container {
     /* border: 2px solid red; */
